@@ -14,17 +14,12 @@ The goal is to summarize key takeaways, clarify concepts, and create a learning 
 
 | Day | Status  | Link |
 |-----|---------|------|
-| 1️⃣ Day 1 | ✅ Published | [View on Notion](https://your-notion-link.com) or [View in Repo](./Day1/notes.md) |
+| 1️⃣ Day 1 | ✅ Published | [View on Notion](https://holy-marble-80b.notion.site/Day-1-Notes-from-the-5-Day-Generative-AI-Intensive-Course-1dfb5a5ff26f80d5ac00c1eb5fb77e46?source=copy_link)
 | 2️⃣ Day 2 | 🔄 In progress | Coming soon |
 | 3️⃣ Day 3 | 🔄 In progress | Coming soon |
 | 4️⃣ Day 4 | 🔄 In progress | Coming soon |
 | 5️⃣ Day 5 | 🔄 In progress | Coming soon |
 
-## 🚀 How to Use
-
-- You can read the notes in the `Day1/` folder directly.
-- Or view the formatted version on Notion:  
-  👉 
 
 ## 🤝 Contributing
 
